@@ -18,3 +18,7 @@ start: Índice desde el cual se realizarán las modificaciones.
 deleteCount: Número de elementos a eliminar desde start. Si es 0, no se eliminará ningún elemento.
 
 item1, item2, ...: Elementos a agregar en el array a partir de la posición start.
+
+### keyword objeto
+
+## eliminar propiedad : delete objeto.propiedad;
