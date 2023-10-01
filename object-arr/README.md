@@ -6,7 +6,7 @@
 
 ## por el nombre
 
-* .slice (tajada o corte) .splice (empalme) .split (dividir)
+* .slice (tajada o corte) .splice (empalme) .split (dividir) (tambien me para con Math.ceil(); pienso 'es "ceil" o "ceil" es de esos métodos que siempre confundo')
 
 ## clonar arr
 
